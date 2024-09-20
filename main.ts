@@ -2,7 +2,7 @@
  *
  * Created by: Jp
  * Created on: Sep 2024
- * This program says ther tempoature
+ * This program says ther temperature
 */
 
 let temperature = 0
